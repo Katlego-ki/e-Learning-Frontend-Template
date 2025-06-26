@@ -1,11 +1,11 @@
 # Running the application
 ## 1: Clone the repository
 ```
-git clone https://github.com/Katlego-ki/Mathematics-Education-Portal.git
+git clone https://github.com/Katlego-ki/e-Learning-Frontend-Template.git
 ```
 or with github CLI
 ```
-gh repo clone Katlego-ki/Mathematics-Education-Portal
+gh repo clone Katlego-ki/e-Learning-Frontend-Template
 ```
 ## 2: Navigate to Frontend folder
 ```
